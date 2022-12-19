@@ -1,4 +1,4 @@
-# Function to calculate parameters of Basic COCOMO
+# Calculate Basic COCOMO
 import sys
 
 def printResults(effort, time, staff, model, table, size):
